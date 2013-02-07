@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/97/plugins/google_ads
+END
+config.inc.php.dist
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/97/plugins/google_ads/config.inc.php.dist
+END
+google_ads.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/97/plugins/google_ads/google_ads.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/plugins/google_ads/README
+END
