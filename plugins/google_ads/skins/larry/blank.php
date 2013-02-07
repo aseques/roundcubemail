@@ -82,8 +82,8 @@ else{
 <script type="text/javascript"><!--
 google_ad_client = "<?php echo $credentials[0]['google_ad_client'] ?>";
 google_ad_slot = "<?php echo $credentials[0]['google_ad_slot'] ?>";
-google_ad_width = <?php echo $credentials[0]['google_ad_width'] ?>;
-google_ad_height = <?php echo $credentials[0]['google_ad_height'] ?>;
+google_ad_width = "<?php echo $credentials[0]['google_ad_width'] ?>";
+google_ad_height = "<?php echo $credentials[0]['google_ad_height'] ?>";
 //-->
 </script>
 <script type="text/javascript"
@@ -97,8 +97,8 @@ src="http<?php echo $https ?>://pagead2.googlesyndication.com/pagead/show_ads.js
 <script type="text/javascript"><!--
 google_ad_client = "<?php echo $credentials[1]['google_ad_client'] ?>";
 google_ad_slot = "<?php echo $credentials[1]['google_ad_slot'] ?>";
-google_ad_width = <?php echo $credentials[1]['google_ad_width'] ?>;
-google_ad_height = <?php echo $credentials[1]['google_ad_height'] ?>;
+google_ad_width = "<?php echo $credentials[1]['google_ad_width'] ?>";
+google_ad_height = "<?php echo $credentials[1]['google_ad_height'] ?>";
 //-->
 </script>
 <script type="text/javascript"

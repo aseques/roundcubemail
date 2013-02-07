@@ -16,6 +16,7 @@ $rcmail_config['google_ads_templates']['default'][] = array(
 
 /* blank page name (located in skins/<name>/ folder) */
 $rcmail_config['blankpage']['default'] = 'blank.php';
+$rcmail_config['blankpage']['larry'] = 'blank.php';
 
 /* credentials for bank page */
 $rcmail_config['google_ads_blank']['default'][] = array(
